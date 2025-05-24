@@ -1,38 +1,65 @@
-<h1>Hi, I'm Sumesh! <br/><a href="https://github.com/SumeshChodankar">Programmer</a>, <a href="https://www.linkedin.com/in/sumesh-chodankar-0a9211192/">Artificial Intelligence Professional</a></h1>
+<h1>Hi, I'm Sumesh! <br/>
+<a href="https://github.com/SumeshChodankar">Programmer</a>, 
+<a href="https://www.linkedin.com/in/sumesh-chodankar-0a9211192/">Artificial Intelligence Professional</a>
+</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+🎓 MSc in Artificial Intelligence — University of Surrey  
+💡 Passionate about Machine Learning, Medical Imaging, Computer Vision, and NLP  
+📫 Contact: SC02978@surrey.ac.uk
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>IOT Projects</b>
-- <b> Machine Learning Projects</b>
+---
 
+<h2>👨‍💻 Featured Projects</h2>
 
+- <b>🧠 Unified Biomedical Image Classification</b>  
+  Deep learning classification across 2D/3D chest X-rays using ResNet, Swin UNETR & Vision Transformers  
+  🔗 [View Project](https://github.com/SumeshChodankar/medmnist-unified-classification)
 
-<h2>📺 Popular YouTube Videos</h2>
+- <b>❤️ Heart Murmur Detection from Phonocardiograms</b>  
+  Combined Mel Spectrogram + tabular data classification using custom ResNet, RNN, and ViT  
+  🔗 [View Project](https://github.com/SumeshChodankar/heart-murmur-detection)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>🚗 Vehicle Re-Identification</b>  
+  Used ResNet-50 and MobileNet with augmentation to improve rank-based retrieval (mAP 52%)  
+  🔗 [View Project](https://github.com/SumeshChodankar/vehicle-reid)
 
-<h2> 🤳 Connect with me:</h2>
+- <b>🏙️ Scene Recognition using ResNet-34</b>  
+  Applied decaying learning rates and hyperparameter tuning on Places2 dataset  
+  🔗 [View Project](https://github.com/SumeshChodankar/scene-recognition-resnet34)
 
-[<img align="left" alt="SumeshChodankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- <b>📚 Biomedical NLP Sequence Classification</b>  
+  BiLSTM, GRU, Attention mechanisms applied to scientific entity recognition tasks  
+  🔗 [View Project](https://github.com/SumeshChodankar/biomedical-nlp-seqclassifier)
 
-[linkedin]: https://www.linkedin.com/in/sumesh-chodankar-0a9211192
-<!--
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- <b>🖼️ Image Retrieval using Descriptors (CVPR Coursework)</b>  
+  Explored SIFT, Harris, BoVW, and HSV/LBP descriptors for visual search  
+  🔗 [View Project](https://github.com/SumeshChodankar/image-retrieval-cvpr)
 
+- <b>🕶️ AR/VR Labs with Unity XR</b>  
+  Developed interactive VR scenes with hand tracking, 3D spatial audio, and dynamic physics  
+  🔗 [View Project](https://github.com/SumeshChodankar/ar-vr-unity-labs)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
+
+<h2>🧰 Tech Stack</h2>
+
+- 🧠 AI & ML: PyTorch, TensorFlow, Scikit-learn
+- 🖼️ CV/NLP: OpenCV, Transformers, HuggingFace, spaCy, NLTK
+- 🎮 XR: Unity3D, C#, XR Interaction Toolkit
+- 📊 Data Tools: PowerBI, Jupyter, Pandas
+- 💻 Other: Git, Linux, VS Code
+
+---
+
+<h2>🤝 Connect with me</h2>
+
+[<img align="left" alt="SumeshChodankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sumesh-chodankar-0a9211192)
+
+<!-- Future social icons (if needed)
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](#)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
 -->
+
+---
+
+⭐️ **Feel free to check out my repositories and star any projects you find useful!**
