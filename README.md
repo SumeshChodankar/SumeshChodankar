@@ -5,7 +5,7 @@
 
 🎓 MSc in Artificial Intelligence — University of Surrey  
 💡 Passionate about Machine Learning, Medical Imaging, Computer Vision, and NLP  
-📫 Contact: SC02978@surrey.ac.uk
+📫 Contact: sumeshchodankar99@gmail.com
 
 ---
 
