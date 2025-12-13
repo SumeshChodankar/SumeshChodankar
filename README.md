@@ -29,7 +29,7 @@
 
 - <b>📚 Biomedical NLP Sequence Classification</b>  
   BiLSTM, GRU, Attention mechanisms applied to scientific entity recognition tasks  
-  🔗 [View Project](https://github.com/SumeshChodankar/biomedical-nlp-seqclassifier)
+  🔗 [View Project](https://github.com/SumeshChodankar/End-to-End-MLOps-Pipeline-for-Token-Classification-PLOD-Dataset-)
 
 - <b>🖼️ Image Retrieval using Descriptors (CVPR Coursework)</b>  
   Explored SIFT, Harris, BoVW, and HSV/LBP descriptors for visual search  
