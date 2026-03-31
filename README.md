@@ -3,6 +3,7 @@
 <!-- Dynamic header with typing effect via readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Computer+Vision+%7C+MLOps;Building+models+that+work+in+production.;90k%2B+docs%2Fmonth+%7C+96%25+accuracy+%7C+TCS;MSc+AI+%40+University+of+Surrey)](https://git.io/typing-svg)
 
+#@SumeshChodankar
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=sumesh-chodankar&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
@@ -54,19 +55,19 @@ I'm a **Machine Learning Engineer** with 5 years of hands-on experience building
 
 > 💡 *Production work at TCS is under NDA. These repos demonstrate the same skills applied to open datasets and personal projects.*
 
-### 🔬 [Document OCR Pipeline](https://github.com/sumesh-chodankar/document-ocr-pipeline)
+### 🔬 [Document OCR Pipeline](https://github.com/SumeshChodankar/document-ocr-pipeline)
 > Reproduction of production OCR architecture on public datasets. CNN + Transformer hybrid for multi-class document understanding.  
 > `PyTorch` `OpenCV` `Transformers` `FastAPI` `Docker`
 
-### 📊 [MLOps Template](https://github.com/sumesh-chodankar/mlops-template)
+### 📊 [MLOps Template](https://github.com/SumeshChodankar/mlops-template)
 > End-to-end MLOps boilerplate: experiment tracking, model registry, CI/CD, and Prometheus monitoring. Ready to fork.  
 > `MLflow` `DVC` `GitHub Actions` `Docker` `Prometheus`
 
-### 👁️ [CV Research Notebook](https://github.com/sumesh-chodankar/cv-research)
+### 👁️ [CV Research Notebook](https://github.com/SumeshChodankar/cv-research)
 > Experiments with ViT, DETR, and Segment Anything Model on custom datasets. MSc coursework + personal exploration.  
 > `PyTorch` `HuggingFace` `TIMM` `WandB`
 
-### 🤖 [LLM Fine-tuning Experiments](https://github.com/sumesh-chodankar/llm-finetuning)
+### 🤖 [LLM Fine-tuning Experiments](https://github.com/SumeshChodankar/llm-finetuning)
 > LoRA/QLoRA fine-tuning experiments on domain-specific tasks. Tracking what actually works vs. what papers claim.  
 > `HuggingFace` `PEFT` `bitsandbytes` `Colab`
 
@@ -76,15 +77,15 @@ I'm a **Machine Learning Engineer** with 5 years of hands-on experience building
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumesh-chodankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SumeshChodankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumesh-chodankar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumesh-chodankaSumeshChodankar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sumesh-chodankar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SumeshChodankar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
