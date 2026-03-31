@@ -1,65 +1,115 @@
-<h1>Hi, I'm Sumesh! <br/>
-<a href="https://github.com/SumeshChodankar">Programmer</a>, 
-<a href="https://www.linkedin.com/in/sumesh-chodankar-0a9211192/">Artificial Intelligence Professional</a>
-</h1>
+<div align="center">
 
-🎓 MSc in Artificial Intelligence — University of Surrey  
-💡 Passionate about Machine Learning, Medical Imaging, Computer Vision, and NLP  
-📫 Contact: sumeshchodankar99@gmail.com
+<!-- Dynamic header with typing effect via readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Computer+Vision+%7C+MLOps;Building+models+that+work+in+production.;90k%2B+docs%2Fmonth+%7C+96%25+accuracy+%7C+TCS;MSc+AI+%40+University+of+Surrey)](https://git.io/typing-svg)
 
----
+<br/>
 
-<h2>👨‍💻 Featured Projects</h2>
+<img src="https://komarev.com/ghpvc/?username=sumesh-chodankar&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
 
-- <b>🧠 Unified Biomedical Image Classification</b>  
-  Deep learning classification across 2D/3D chest X-rays using ResNet, Swin UNETR & Vision Transformers  
-  🔗 [View Project](https://github.com/SumeshChodankar/medmnist-unified-classification)
-
-- <b>❤️ Heart Murmur Detection from Phonocardiograms</b>  
-  Combined Mel Spectrogram + tabular data classification using custom ResNet, RNN, and ViT  
-  🔗 [View Project](https://github.com/SumeshChodankar/heart-murmur-detection)
-
-- <b>🚗 Vehicle Re-Identification</b>  
-  Used ResNet-50 and MobileNet with augmentation to improve rank-based retrieval (mAP 52%)  
-  🔗 [View Project](https://github.com/SumeshChodankar/vehicle-reid)
-
-- <b>🏙️ Scene Recognition using ResNet-34</b>  
-  Applied decaying learning rates and hyperparameter tuning on Places2 dataset  
-  🔗 [View Project](https://github.com/SumeshChodankar/scene-recognition-resnet34)
-
-- <b>📚 Biomedical NLP Sequence Classification</b>  
-  BiLSTM, GRU, Attention mechanisms applied to scientific entity recognition tasks  
-  🔗 [View Project](https://github.com/SumeshChodankar/End-to-End-MLOps-Pipeline-for-Token-Classification-PLOD-Dataset-)
-
-- <b>🖼️ Image Retrieval using Descriptors (CVPR Coursework)</b>  
-  Explored SIFT, Harris, BoVW, and HSV/LBP descriptors for visual search  
-  🔗 [View Project](https://github.com/SumeshChodankar/image-retrieval-cvpr)
-
-- <b>🕶️ AR/VR Labs with Unity XR</b>  
-  Developed interactive VR scenes with hand tracking, 3D spatial audio, and dynamic physics  
-  🔗 [View Project](https://github.com/SumeshChodankar/ar-vr-unity-labs)
+</div>
 
 ---
 
-<h2>🧰 Tech Stack</h2>
+## 👋 About me
 
-- 🧠 AI & ML: PyTorch, TensorFlow, Scikit-learn
-- 🖼️ CV/NLP: OpenCV, Transformers, HuggingFace, spaCy, NLTK
-- 🎮 XR: Unity3D, C#, XR Interaction Toolkit
-- 📊 Data Tools: PowerBI, Jupyter, Pandas
-- 💻 Other: Git, Linux, VS Code
+I'm a **Machine Learning Engineer** with 5 years of hands-on experience building **production-ready CV and MLOps systems** at Tata Consultancy Services. I'm passionate about the gap between research and real-world deployment — getting models to actually *work* at scale.
 
----
-
-<h2>🤝 Connect with me</h2>
-
-[<img align="left" alt="SumeshChodankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sumesh-chodankar-0a9211192)
-
-<!-- Future social icons (if needed)
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](#)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
--->
+- 🏗️ &nbsp;Built an **OCR pipeline** processing **90,000+ insurance documents/month** at 96% accuracy
+- ⚡ &nbsp;Engineered MLOps infrastructure (Kubernetes + MLflow + Prometheus) cutting inference latency **35%**
+- ☁️ &nbsp;Led cloud cost optimisation saving **£120,000/year** across AWS & Azure
+- 🎓 &nbsp;MSc Artificial Intelligence — **University of Surrey** (2024–2025)
+- 🔍 &nbsp;Currently exploring: **Vision Transformers · Diffusion Models · LLM fine-tuning**
+- 📍 &nbsp;Based in **London, UK** — open to ML Engineer / Applied AI roles
 
 ---
 
-⭐️ **Feel free to check out my repositories and star any projects you find useful!**
+## 🛠️ Tech stack
+
+### Core ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### MLOps & Infrastructure
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Cloud & Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+---
+
+## 🚀 Featured projects
+
+> 💡 *Production work at TCS is under NDA. These repos demonstrate the same skills applied to open datasets and personal projects.*
+
+### 🔬 [Document OCR Pipeline](https://github.com/sumesh-chodankar/document-ocr-pipeline)
+> Reproduction of production OCR architecture on public datasets. CNN + Transformer hybrid for multi-class document understanding.  
+> `PyTorch` `OpenCV` `Transformers` `FastAPI` `Docker`
+
+### 📊 [MLOps Template](https://github.com/sumesh-chodankar/mlops-template)
+> End-to-end MLOps boilerplate: experiment tracking, model registry, CI/CD, and Prometheus monitoring. Ready to fork.  
+> `MLflow` `DVC` `GitHub Actions` `Docker` `Prometheus`
+
+### 👁️ [CV Research Notebook](https://github.com/sumesh-chodankar/cv-research)
+> Experiments with ViT, DETR, and Segment Anything Model on custom datasets. MSc coursework + personal exploration.  
+> `PyTorch` `HuggingFace` `TIMM` `WandB`
+
+### 🤖 [LLM Fine-tuning Experiments](https://github.com/sumesh-chodankar/llm-finetuning)
+> LoRA/QLoRA fine-tuning experiments on domain-specific tasks. Tracking what actually works vs. what papers claim.  
+> `HuggingFace` `PEFT` `bitsandbytes` `Colab`
+
+---
+
+## 📈 GitHub stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumesh-chodankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumesh-chodankar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sumesh-chodankar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📝 What I'm currently working on
+
+- [ ] &nbsp;Open-sourcing a **document layout analysis** model trained on IIT-CDIP
+- [ ] &nbsp;Writing up my MSc dissertation experiments as a blog post
+- [ ] &nbsp;Contributing to [**Detectron2**](https://github.com/facebookresearch/detectron2) — reviewing open issues
+- [ ] &nbsp;Building a **model monitoring dashboard** template (Prometheus + Grafana + FastAPI)
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumesh_Chodankar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumesh-chodankar-0a9211192)
+[![Email](https://img.shields.io/badge/Email-sumeshchodankar99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeshchodankar99@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>💬 Always happy to chat about CV, MLOps, or anything production ML.</sub>
+</div>
