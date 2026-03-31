@@ -3,7 +3,7 @@
 <!-- Dynamic header with typing effect via readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Computer+Vision+%7C+MLOps;Building+models+that+work+in+production.;90k%2B+docs%2Fmonth+%7C+96%25+accuracy+%7C+TCS;MSc+AI+%40+University+of+Surrey)](https://git.io/typing-svg)
 
-#@SumeshChodankar
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=sumesh-chodankar&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
