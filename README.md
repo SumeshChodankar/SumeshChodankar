@@ -3,10 +3,11 @@
 <!-- Dynamic header with typing effect via readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Computer+Vision+%7C+MLOps;Building+models+that+work+in+production.;90k%2B+docs%2Fmonth+%7C+96%25+accuracy+%7C+TCS;MSc+AI+%40+University+of+Surrey)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Neural_Galaxy-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://sumesh-portfolio-swart.vercel.app)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sumesh-chodankar&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=SumeshChodankar&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -79,7 +80,7 @@ I'm a **Machine Learning Engineer** with 5 years of hands-on experience building
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=SumeshChodankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumesh-chodankaSumeshChodankar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumeshChodankar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
