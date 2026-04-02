@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SumeshChodankar&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=sumesh-chodankar&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
