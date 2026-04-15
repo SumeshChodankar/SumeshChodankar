@@ -15,7 +15,7 @@
 
 ## 👋 About me
 
-I'm a **Machine Learning Engineer** with 5 years of hands-on experience building **production-ready CV and MLOps systems** at Tata Consultancy Services. I'm passionate about the gap between research and real-world deployment — getting models to actually *work* at scale.
+I'm a **Machine Learning Engineer** with 5 years of hands-on experience building **production-ready CV and MLOps systems** at Tata Consultancy Services. I'm passionate about the gap between research and real-world deployment  getting models to actually *work* at scale.
 
 - 🏗️ &nbsp;Built an **OCR pipeline** processing **90,000+ insurance documents/month** at 96% accuracy
 - ⚡ &nbsp;Engineered MLOps infrastructure (Kubernetes + MLflow + Prometheus) cutting inference latency **35%**
